@@ -1,8 +1,12 @@
+## Unix Shell
+![alt text](https://github.com/RomaM/kottans-backend/blob/master/task_unix_shell/screen_linux.png)
+Everything was clear
+
 ## Hi everyone!
 
 
 # HI KOTTANKIND!
-I am Dainis ,dude what want to learn back end. 
+I am Dainis ,dude what want to learn back end.
 ![Alt text](https://github.com/RazdolbayOne/kottans-backend/blob/master/Tombili-3.jpg)
 
 [![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
@@ -49,7 +53,7 @@ My cat and me are looking forward to the next tasks
 ![mycat](gif/myCat.jpg)
 :smirk:
 
-## Have a nice day! 
+## Have a nice day!
 _________________________________________________
 # Hi kottans! My name is [Sergey](https://github.com/LenkovSergey).
 
