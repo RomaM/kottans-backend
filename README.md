@@ -1,3 +1,7 @@
+## Git Collaboration
+![alt text](https://github.com/RomaM/kottans-backend/blob/master/task_git_collaboration/git_collaboration.png)
+Everything was clear
+
 ## Unix Shell
 ![alt text](https://github.com/RomaM/kottans-backend/blob/master/task_unix_shell/screen_linux.png)
 Everything was clear
